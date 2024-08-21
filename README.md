@@ -6,7 +6,7 @@
 - 👀 I’m interested in personal growth and development to meet global standard
  🌱 I’m currently learning
 
-    [![My Skills](https://skillicons.dev/icons?i=java,react,aiscrip,nodejs,figma&theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,react,aiscript,nodejs,angular,cloudflare,django,eclipse,atom)](https://skillicons.dev)
 Ruby, Django, Mango and more
   💞️ I’m looking to collaborate with tech enthusiast and learn more
   📫 How to reach me on
